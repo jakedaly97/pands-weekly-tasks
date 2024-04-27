@@ -1,6 +1,6 @@
 # bank.py
 # Author: Jake Daly
-# Weekly task 02, prompt user and read in two money amounts (in cents),
+# prompt user and read in two money amounts (in cents),
 # add the two amounts, Print out the answer in a human readable format 
 # with a euro sign and decimal point between the euro and cent of the amount
 
