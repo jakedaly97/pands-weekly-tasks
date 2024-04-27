@@ -48,14 +48,23 @@ This structured approach not only reinforced the concepts taught in the lectures
 The resources used to help write the programs, they can also be found in the comments made on the code. The lectures and labs given over the course of the module were also used as resources.
 
 https://www.w3schools.com/python/python_string_formatting.asp Tutorial for string formatting.
+
 https://www.w3schools.com/python/python_strings_slicing.asp Tutorial for string slicing.
+
 https://www.w3schools.com/python/python_datetime.asp Tutorial for usuing daytime module and the Strftime() function.
+
 https://patrickwalls.github.io/mathematicalpython/root-finding/newton/ Newton Method.
+
 https://www.instructables.com/Python-Programming-calculating-Newtons-Method/ Python program that uses the newton method to calculate the square root.
+
 https://www.geeksforgeeks.org/how-to-use-sys-argv-in-python/ command line arguments and sys.argv.
+
 https://stackoverflow.com/questions/5899497/how-can-i-check-the-extension-of-a-file Shows how to check the extension of a file with .endswith().
+
 https://www.youtube.com/watch?v=ZQ9JO0e9468 Shows how to take the filename from an arguemtnt in the command line.
+
 https://learnpython.com/blog/python-string-methods/ Counting strings in python.
+
 https://www.w3schools.com/python/python_ml_normal_data_distribution.asp Normal data distributiuon and numpy.random.normal() funtion.
 
 ## Use of This Project
