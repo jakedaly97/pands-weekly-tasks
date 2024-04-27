@@ -45,16 +45,17 @@ A program that displays a histogram of a normal distribution of 1000 values with
 This structured approach not only reinforced the concepts taught in the lectures but also encouraged students to delve deeper into Python's capabilities, enhancing their proficiency and fostering a spirit of inquiry.
 
 ## Use of This Project
-Why this project is useful...
+This project is useful as a practical learning experience for students who are learning the fundamentals of computer programming. The project covers key functions of Python, allowing independent thinking and problem-solving skills to flourish.
+Through completing the tasks covered in the project, users can become proficient in the language and can gain confidence in their abilities to solve problems in real-world scenarios.
 
 ## Get Started
-How users can get started with this project...
+To get started with this project, users need an up-to-date version of Python installed on their systems. They can then download or clone the "pands-weekly-tasks" repository directly from GitHub. Each program corresponds to a specific week's task. Users are encouraged to modify scripts to further improve the programs.
 
 ## Get Help
-Where users can get help with this project...
+For assistance, users can refer to the comments within the programs, providing insights into the written code. Additional clarification can be found in the Python documentation available at https://docs.python.org/3/, or through numerous tutorials on Python, accessible on the W3Schools website at https://www.w3schools.com/python/default.asp.
 
 ## Contributions
-Who maintains and contributes to this project...
+Currently, Jake Daly is the sole contributor to this project.
 
 ## Author
-About me...
+Jake Daly is a part-time student enrolled in the Higher Diploma in Science in Computing in Data Analytics course at Atlantic Technological University. For inquiries or further information, Jake Daly can be contacted via his student email at g00439324@atu.ie or through his personal email at jakedaly1997@hotmail.com.
