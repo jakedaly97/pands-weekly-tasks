@@ -16,4 +16,4 @@ x = datetime.datetime.now() # variable gives the current date
 if x.strftime("%w") in ("6", "0"): # line checks if the current day of the week is found in touple ("6", "0"). i.e Saturday = 6, Sunday = 0
     print("It is the weekend, yay!")
 else:
-    print("Yes, unfortunately today is a weekday.")
+    print("Yes, unfortunately today is a weekday.") # if the current day of the week is not found in touple ("6", "0"), program will print alternative answer indicating its a weekday.
