@@ -25,4 +25,3 @@ print(e_count) # prints out how many times "e" was counted.
 # Resources
 # https://www.youtube.com/watch?v=ZQ9JO0e9468 shows how to take the filename from an arguemtnt in the command line.
 # https://learnpython.com/blog/python-string-methods/ counting strings in python
-
