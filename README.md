@@ -35,7 +35,7 @@ This program takes a positive floating-point number as input and outputs an appr
 
 Week 07: es.py
 
- program that reads in a text file and outputs the number of occurrences of the letter 'e' it contains. Custom errors also added if file not enetered, does not exist, or is not a .txt file.
+ program that reads in a text file and outputs the number of occurrences of the letter 'e' it contains. Custom errors also added if file not entered, does not exist, or is not a .txt file.
 
 Week 08: plottask.py
 
@@ -47,7 +47,7 @@ This structured approach not only reinforced the concepts taught in the lectures
 ## Resources
 The resources used to help write the programs can also be found in the comments made on the code. The lectures and labs given over the course of the module were also utilized as resources.
 
-List of rsources used:
+List of resources used:
 
 https://www.w3schools.com/python/python_string_formatting.asp Tutorial for string formatting.
 
@@ -67,7 +67,7 @@ https://www.youtube.com/watch?v=ZQ9JO0e9468 Shows how to take the filename from 
 
 https://learnpython.com/blog/python-string-methods/ Counting strings in python.
 
-https://www.w3schools.com/python/python_ml_normal_data_distribution.asp Normal data distribution and numpy.random.normal() funtion.
+https://www.w3schools.com/python/python_ml_normal_data_distribution.asp Normal data distribution and numpy.random.normal() function.
 
 https://www.freecodecamp.org/news/how-to-check-if-a-file-exists-in-python/ Shows how to check if a file exists using python
 
