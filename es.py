@@ -26,6 +26,7 @@ else:
 # Assumptions
 # This program assumes file name will be provided.
 # Program assumes the file exists.
+# Program assumes the file is a .txt file.
 # Program assumes file is only text and does not count the letter e if it is an image etc.
 
 # Resources
