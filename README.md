@@ -35,7 +35,7 @@ This program takes a positive floating-point number as input and outputs an appr
 
 Week 07: es.py
 
- program that reads in a text file and outputs the number of occurrences of the letter 'e' it contains.
+ program that reads in a text file and outputs the number of occurrences of the letter 'e' it contains. Custom errors also added if file not enetered, does not exist, or is not a .txt file.
 
 Week 08: plottask.py
 
@@ -68,6 +68,8 @@ https://www.youtube.com/watch?v=ZQ9JO0e9468 Shows how to take the filename from 
 https://learnpython.com/blog/python-string-methods/ Counting strings in python.
 
 https://www.w3schools.com/python/python_ml_normal_data_distribution.asp Normal data distribution and numpy.random.normal() funtion.
+
+https://www.freecodecamp.org/news/how-to-check-if-a-file-exists-in-python/ Shows how to check if a file exists using python
 
 ## Use of This Project
 This project is useful as a practical learning experience for students who are learning the fundamentals of computer programming. The project covers key functions of Python, allowing independent thinking and problem-solving skills to flourish.
